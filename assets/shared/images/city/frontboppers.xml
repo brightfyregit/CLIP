@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frontboppers.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bottomboppers0000" x="0" y="0" width="2087" height="432" pivotX="701.6" pivotY="0" frameX="0" frameY="-49" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0001" x="0" y="0" width="2087" height="432" frameX="0" frameY="-49" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0002" x="0" y="432" width="2083" height="472" frameX="-2" frameY="-15" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0003" x="0" y="432" width="2083" height="472" frameX="-2" frameY="-15" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0004" x="0" y="904" width="2069" height="493" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0005" x="0" y="904" width="2069" height="493" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0006" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0007" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0008" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0009" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0010" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0011" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0012" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0013" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0014" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0015" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0016" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0017" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0018" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+	<SubTexture name="bottomboppers0019" x="0" y="1397" width="2069" height="490" frameX="-9" frameY="0" frameWidth="2087" frameHeight="493"/>
+</TextureAtlas>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="superherodrop.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="everythin instance 10000" x="0" y="0" width="0" height="0" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10001" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10002" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10003" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10004" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10005" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10006" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10007" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10008" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10009" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10010" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10011" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10012" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10013" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10014" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10015" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10016" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10017" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10018" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10019" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10020" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10021" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10022" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10023" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10024" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10025" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10026" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10027" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10028" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10029" x="0" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10030" x="0" y="0" width="521" height="667" frameX="-10" frameY="-43" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10031" x="0" y="0" width="521" height="667" frameX="-10" frameY="-43" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10032" x="521" y="0" width="539" height="666" frameX="0" frameY="-49" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10033" x="521" y="0" width="539" height="666" frameX="0" frameY="-49" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10034" x="1060" y="0" width="596" height="887" frameX="-11" frameY="0" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10035" x="1656" y="0" width="996" height="392" frameX="-125" frameY="-553" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10036" x="2652" y="0" width="984" height="392" frameX="-109" frameY="-553" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10037" x="0" y="887" width="984" height="408" frameX="-109" frameY="-531" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10038" x="984" y="887" width="1144" height="408" frameX="-24" frameY="-531" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10039" x="2128" y="887" width="1144" height="410" frameX="-24" frameY="-526" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10040" x="0" y="1297" width="1139" height="410" frameX="-23" frameY="-526" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10041" x="1139" y="1297" width="1139" height="422" frameX="-23" frameY="-524" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10042" x="2278" y="1297" width="1132" height="422" frameX="-17" frameY="-524" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10043" x="0" y="1719" width="1132" height="423" frameX="-17" frameY="-524" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10044" x="1132" y="1719" width="1131" height="423" frameX="-15" frameY="-524" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10045" x="2263" y="1719" width="1131" height="429" frameX="-15" frameY="-525" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10046" x="0" y="2148" width="1132" height="429" frameX="-11" frameY="-525" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10047" x="1132" y="2148" width="657" height="430" frameX="-361" frameY="-525" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10048" x="1132" y="2148" width="657" height="430" frameX="-361" frameY="-525" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10049" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10050" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10051" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10052" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10053" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10054" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10055" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10056" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10057" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10058" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10059" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10060" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10061" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10062" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+	<SubTexture name="everythin instance 10063" x="1789" y="2148" width="644" height="433" frameX="-374" frameY="-523" frameWidth="1168" frameHeight="956"/>
+</TextureAtlas>

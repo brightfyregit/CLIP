@@ -1,0 +1,4 @@
+:bgChange:panel_1
+:bgChange:panel_2
+:bgChange:panel_3
+:bgChange:panel_3a

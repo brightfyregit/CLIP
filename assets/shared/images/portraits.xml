@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portraits.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clip ANGY0000" x="0" y="0" width="409" height="558" pivotX="27.65" pivotY="111.55" frameX="0" frameY="-14" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0001" x="409" y="0" width="410" height="558" frameX="0" frameY="-14" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0002" x="819" y="0" width="409" height="558" frameX="0" frameY="-14" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0003" x="1228" y="0" width="404" height="577" frameX="-5" frameY="-5" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0004" x="1632" y="0" width="405" height="577" frameX="-5" frameY="-5" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0005" x="2037" y="0" width="403" height="583" frameX="-6" frameY="0" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0006" x="2440" y="0" width="404" height="583" frameX="-6" frameY="0" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0007" x="2844" y="0" width="403" height="583" frameX="-6" frameY="0" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0008" x="409" y="0" width="410" height="558" frameX="0" frameY="-14" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0009" x="3247" y="0" width="409" height="558" frameX="0" frameY="-14" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0010" x="3656" y="0" width="410" height="558" frameX="0" frameY="-14" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0011" x="0" y="583" width="404" height="577" frameX="-5" frameY="-5" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0012" x="1632" y="0" width="405" height="577" frameX="-5" frameY="-5" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0013" x="2037" y="0" width="403" height="583" frameX="-6" frameY="0" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0014" x="2440" y="0" width="404" height="583" frameX="-6" frameY="0" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0015" x="2844" y="0" width="403" height="583" frameX="-6" frameY="0" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0016" x="2440" y="0" width="404" height="583" frameX="-6" frameY="0" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip ANGY0017" x="2844" y="0" width="403" height="583" frameX="-6" frameY="0" frameWidth="410" frameHeight="583"/>
+	<SubTexture name="clip nervous0000" x="404" y="583" width="368" height="571" pivotX="7.9" pivotY="110.4" frameX="0" frameY="-5" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0001" x="404" y="583" width="368" height="571" frameX="0" frameY="-5" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0002" x="772" y="583" width="368" height="571" frameX="0" frameY="-5" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0003" x="1140" y="583" width="350" height="587" frameX="-10" frameY="0" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0004" x="1490" y="583" width="350" height="587" frameX="-10" frameY="0" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0005" x="1840" y="583" width="358" height="578" frameX="-6" frameY="-4" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0006" x="2198" y="583" width="358" height="578" frameX="-6" frameY="-4" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0007" x="2198" y="583" width="358" height="578" frameX="-6" frameY="-4" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0008" x="404" y="583" width="368" height="571" frameX="0" frameY="-5" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0009" x="404" y="583" width="368" height="571" frameX="0" frameY="-5" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0010" x="772" y="583" width="368" height="571" frameX="0" frameY="-5" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0011" x="1140" y="583" width="350" height="587" frameX="-10" frameY="0" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0012" x="1490" y="583" width="350" height="587" frameX="-10" frameY="0" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0013" x="1840" y="583" width="358" height="578" frameX="-6" frameY="-4" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0014" x="2198" y="583" width="358" height="578" frameX="-6" frameY="-4" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0015" x="2198" y="583" width="358" height="578" frameX="-6" frameY="-4" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0016" x="2198" y="583" width="358" height="578" frameX="-6" frameY="-4" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip nervous0017" x="2198" y="583" width="358" height="578" frameX="-6" frameY="-4" frameWidth="368" frameHeight="587"/>
+	<SubTexture name="clip portraits0000" x="2556" y="583" width="376" height="581" pivotX="15.5" pivotY="121.25" frameX="0" frameY="-12" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0001" x="2556" y="583" width="376" height="581" frameX="0" frameY="-12" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0002" x="2932" y="583" width="376" height="581" frameX="0" frameY="-12" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0003" x="3308" y="583" width="363" height="595" frameX="-9" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0004" x="3671" y="583" width="363" height="595" frameX="-9" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0005" x="0" y="1178" width="364" height="594" frameX="-11" frameY="-2" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0006" x="364" y="1178" width="364" height="594" frameX="-11" frameY="-2" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0007" x="364" y="1178" width="364" height="594" frameX="-11" frameY="-2" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0008" x="2556" y="583" width="376" height="581" frameX="0" frameY="-12" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0009" x="2556" y="583" width="376" height="581" frameX="0" frameY="-12" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0010" x="2932" y="583" width="376" height="581" frameX="0" frameY="-12" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0011" x="728" y="1178" width="363" height="595" frameX="-9" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0012" x="1091" y="1178" width="363" height="595" frameX="-9" frameY="0" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0013" x="0" y="1178" width="364" height="594" frameX="-11" frameY="-2" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0014" x="364" y="1178" width="364" height="594" frameX="-11" frameY="-2" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0015" x="364" y="1178" width="364" height="594" frameX="-11" frameY="-2" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0016" x="364" y="1178" width="364" height="594" frameX="-11" frameY="-2" frameWidth="376" frameHeight="596"/>
+	<SubTexture name="clip portraits0017" x="364" y="1178" width="364" height="594" frameX="-11" frameY="-2" frameWidth="376" frameHeight="596"/>
+</TextureAtlas>

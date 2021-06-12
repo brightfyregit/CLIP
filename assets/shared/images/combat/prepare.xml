@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="prepare.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF attacking beat0000" x="0" y="0" width="1203" height="673" pivotX="149.4" pivotY="393.55" frameX="-2" frameY="-60" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0001" x="1203" y="0" width="1202" height="673" frameX="0" frameY="-60" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0002" x="2405" y="0" width="1202" height="675" frameX="0" frameY="-60" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0003" x="3607" y="0" width="1201" height="734" frameX="-2" frameY="0" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0004" x="4808" y="0" width="1201" height="715" frameX="-2" frameY="-19" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0005" x="6009" y="0" width="1201" height="676" frameX="-2" frameY="-58" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0006" x="0" y="734" width="1201" height="694" frameX="-2" frameY="-57" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0007" x="1201" y="734" width="1201" height="696" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0008" x="2402" y="734" width="1201" height="687" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0009" x="2402" y="734" width="1201" height="687" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0010" x="3603" y="734" width="1205" height="688" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0011" x="4808" y="734" width="1203" height="688" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0012" x="4808" y="734" width="1203" height="688" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0013" x="6011" y="734" width="1199" height="689" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0014" x="0" y="1430" width="1199" height="689" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0015" x="1199" y="1430" width="1196" height="684" frameX="-2" frameY="-48" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0016" x="2395" y="1430" width="1198" height="684" frameX="0" frameY="-48" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0017" x="3593" y="1430" width="1198" height="683" frameX="0" frameY="-49" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0018" x="4791" y="1430" width="1196" height="683" frameX="-2" frameY="-49" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0019" x="5987" y="1430" width="1196" height="685" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0020" x="0" y="2119" width="1196" height="685" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0021" x="1196" y="2119" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0022" x="2392" y="2119" width="1196" height="688" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0023" x="2392" y="2119" width="1196" height="688" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0024" x="2392" y="2119" width="1196" height="688" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0025" x="3588" y="2119" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0026" x="3588" y="2119" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0027" x="3588" y="2119" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0028" x="4784" y="2119" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0029" x="4784" y="2119" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0030" x="5980" y="2119" width="1199" height="672" frameX="-2" frameY="-60" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0031" x="0" y="2807" width="1201" height="672" frameX="0" frameY="-60" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0032" x="1201" y="2807" width="1201" height="672" frameX="0" frameY="-60" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0033" x="2402" y="2807" width="1198" height="672" frameX="-2" frameY="-60" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0034" x="3600" y="2807" width="1198" height="674" frameX="-2" frameY="-58" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0035" x="4798" y="2807" width="1196" height="674" frameX="-2" frameY="-58" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0036" x="5994" y="2807" width="1196" height="675" frameX="-2" frameY="-57" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0037" x="0" y="3482" width="1196" height="685" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0038" x="0" y="3482" width="1196" height="685" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0039" x="0" y="3482" width="1196" height="685" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0040" x="1196" y="3482" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0041" x="1196" y="3482" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0042" x="1196" y="3482" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0043" x="2392" y="3482" width="1196" height="688" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0044" x="2392" y="3482" width="1196" height="688" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0045" x="3588" y="3482" width="1199" height="684" frameX="-2" frameY="-48" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0046" x="4787" y="3482" width="1201" height="684" frameX="0" frameY="-48" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0047" x="5988" y="3482" width="1201" height="683" frameX="0" frameY="-49" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0048" x="0" y="4170" width="1198" height="683" frameX="-2" frameY="-49" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0049" x="1198" y="4170" width="1198" height="685" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0050" x="2396" y="4170" width="1196" height="685" frameX="-2" frameY="-47" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0051" x="3592" y="4170" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0052" x="4788" y="4170" width="1196" height="688" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0053" x="4788" y="4170" width="1196" height="688" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0054" x="4788" y="4170" width="1196" height="688" frameX="-2" frameY="-44" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0055" x="5984" y="4170" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0056" x="5984" y="4170" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0057" x="5984" y="4170" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0058" x="0" y="4858" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+	<SubTexture name="GF attacking beat0059" x="0" y="4858" width="1196" height="687" frameX="-2" frameY="-45" frameWidth="1207" frameHeight="751"/>
+</TextureAtlas>

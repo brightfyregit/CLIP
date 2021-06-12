@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="background_boppers_bonk.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="background boppers0000" x="0" y="0" width="2460" height="705" pivotX="0" pivotY="0" frameX="0" frameY="-377" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0001" x="0" y="0" width="2460" height="705" frameX="0" frameY="-377" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0002" x="0" y="0" width="2460" height="705" frameX="0" frameY="-377" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0003" x="0" y="705" width="2451" height="708" frameX="-7" frameY="-374" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0004" x="0" y="705" width="2451" height="708" frameX="-7" frameY="-374" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0005" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0006" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0007" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0008" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0009" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0010" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0011" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0012" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0013" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0014" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0015" x="0" y="1413" width="2443" height="712" frameX="-13" frameY="-371" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0016" x="0" y="0" width="2460" height="705" frameX="0" frameY="-377" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0017" x="0" y="0" width="2460" height="705" frameX="0" frameY="-377" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0018" x="0" y="0" width="2460" height="705" frameX="0" frameY="-377" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0019" x="0" y="705" width="2451" height="708" frameX="-7" frameY="-374" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0020" x="0" y="705" width="2451" height="708" frameX="-7" frameY="-374" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0021" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0022" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0023" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0024" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0025" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0026" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0027" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0028" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+	<SubTexture name="background boppers0029" x="0" y="2125" width="2800" height="1083" frameX="-13" frameY="0" frameWidth="2813" frameHeight="1083"/>
+</TextureAtlas>

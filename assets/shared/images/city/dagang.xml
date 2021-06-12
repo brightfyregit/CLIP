@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dagang.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="limbs_boppers0000" x="0" y="0" width="2299" height="1050" pivotX="0" pivotY="0" frameX="0" frameY="-22" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0001" x="0" y="0" width="2299" height="1050" frameX="0" frameY="-22" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0002" x="0" y="0" width="2299" height="1050" frameX="0" frameY="-22" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0003" x="2299" y="0" width="2299" height="1070" frameX="0" frameY="-2" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0004" x="2299" y="0" width="2299" height="1070" frameX="0" frameY="-2" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0005" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0006" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0007" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0008" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0009" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0010" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0011" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0012" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0013" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0014" x="0" y="1072" width="2299" height="1050" frameX="0" frameY="-22" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0015" x="0" y="0" width="2299" height="1050" frameX="0" frameY="-22" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0016" x="0" y="0" width="2299" height="1050" frameX="0" frameY="-22" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0017" x="2299" y="1072" width="2299" height="1070" frameX="0" frameY="-2" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0018" x="2299" y="0" width="2299" height="1070" frameX="0" frameY="-2" frameWidth="2299" frameHeight="1072"/>
+	<SubTexture name="limbs_boppers0019" x="4598" y="1072" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0020" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0021" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0022" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0023" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0024" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0025" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0026" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0027" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0028" x="4598" y="0" width="2299" height="1072"/>
+	<SubTexture name="limbs_boppers0029" x="4598" y="0" width="2299" height="1072"/>
+</TextureAtlas>

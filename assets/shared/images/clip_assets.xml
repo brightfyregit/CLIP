@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clip_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Clip Hit Ouchie0000" x="0" y="0" width="389" height="657" pivotX="-68.7" pivotY="182.65" frameX="-15" frameY="-2" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0001" x="389" y="0" width="389" height="657" frameX="-15" frameY="-2" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0002" x="778" y="0" width="414" height="653" frameX="0" frameY="-1" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0003" x="1192" y="0" width="416" height="653" frameX="0" frameY="-1" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0004" x="1608" y="0" width="416" height="654" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0005" x="2024" y="0" width="416" height="654" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0006" x="2440" y="0" width="411" height="604" frameX="-1" frameY="-50" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0007" x="2851" y="0" width="423" height="604" frameX="-1" frameY="-50" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0008" x="3274" y="0" width="424" height="604" frameX="-1" frameY="-50" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0009" x="0" y="657" width="423" height="600" frameX="-1" frameY="-54" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0010" x="423" y="657" width="422" height="600" frameX="-1" frameY="-54" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0011" x="845" y="657" width="422" height="600" frameX="-1" frameY="-54" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0012" x="845" y="657" width="422" height="600" frameX="-1" frameY="-54" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Hit Ouchie0013" x="845" y="657" width="422" height="600" frameX="-1" frameY="-54" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Clip Idle Dance0000" x="1267" y="657" width="391" height="593" pivotX="-8" pivotY="139.05" frameX="0" frameY="-23" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0001" x="1658" y="657" width="391" height="593" frameX="0" frameY="-23" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0002" x="2049" y="657" width="386" height="593" frameX="0" frameY="-21" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0003" x="2049" y="657" width="386" height="593" frameX="0" frameY="-21" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0004" x="2435" y="657" width="379" height="600" frameX="-1" frameY="-14" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0005" x="2435" y="657" width="379" height="600" frameX="-1" frameY="-14" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0006" x="2814" y="657" width="361" height="611" frameX="-3" frameY="-3" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0007" x="2814" y="657" width="361" height="611" frameX="-3" frameY="-3" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0008" x="3175" y="657" width="361" height="614" frameX="-3" frameY="0" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0009" x="3175" y="657" width="361" height="614" frameX="-3" frameY="0" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0010" x="3175" y="657" width="361" height="614" frameX="-3" frameY="0" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0011" x="3175" y="657" width="361" height="614" frameX="-3" frameY="0" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0012" x="3175" y="657" width="361" height="614" frameX="-3" frameY="0" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Idle Dance0013" x="3175" y="657" width="361" height="614" frameX="-3" frameY="0" frameWidth="391" frameHeight="616"/>
+	<SubTexture name="Clip Note Down0000" x="3536" y="657" width="375" height="458" pivotX="-98.85" pivotY="55.25" frameX="-2" frameY="-4" frameWidth="379" frameHeight="467"/>
+	<SubTexture name="Clip Note Down0001" x="3536" y="657" width="375" height="458" frameX="-2" frameY="-4" frameWidth="379" frameHeight="467"/>
+	<SubTexture name="Clip Note Down0002" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0003" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0004" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0005" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0006" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0007" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0008" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0009" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0010" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0011" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Down0012" x="0" y="1271" width="379" height="467"/>
+	<SubTexture name="Clip Note Left0000" x="379" y="1271" width="579" height="614" pivotX="82.9" pivotY="149.75" frameX="-9" frameY="-2" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0001" x="379" y="1271" width="579" height="614" frameX="-9" frameY="-2" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0002" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0003" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0004" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0005" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0006" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0007" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0008" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0009" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0010" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0011" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0012" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0013" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0014" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0015" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Left0016" x="958" y="1271" width="584" height="615" frameX="0" frameY="0" frameWidth="588" frameHeight="616"/>
+	<SubTexture name="Clip Note Right0000" x="1542" y="1271" width="454" height="603" pivotX="-50.4" pivotY="97.55" frameX="0" frameY="0" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0001" x="1542" y="1271" width="454" height="603" frameX="0" frameY="0" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0002" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0003" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0004" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0005" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0006" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0007" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0008" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0009" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0010" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0011" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0012" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0013" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0014" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0015" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Note Right0016" x="1996" y="1271" width="459" height="600" frameX="0" frameY="-3" frameWidth="459" frameHeight="603"/>
+	<SubTexture name="Clip Up note0000" x="2455" y="1271" width="546" height="641" pivotX="26.8" pivotY="133.05" frameX="-11" frameY="0" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0001" x="2455" y="1271" width="546" height="641" frameX="-11" frameY="0" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0002" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0003" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0004" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0005" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0006" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0007" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0008" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0009" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0010" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0011" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0012" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip Up note0013" x="3001" y="1271" width="548" height="634" frameX="0" frameY="-7" frameWidth="557" frameHeight="641"/>
+	<SubTexture name="Clip attack0000" x="3549" y="1271" width="408" height="491" pivotX="224.45" pivotY="149" frameX="-221" frameY="-131" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0001" x="0" y="1912" width="408" height="491" frameX="-221" frameY="-131" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0002" x="408" y="1912" width="402" height="487" frameX="-224" frameY="-137" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0003" x="408" y="1912" width="402" height="487" frameX="-224" frameY="-137" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0004" x="810" y="1912" width="400" height="491" frameX="-222" frameY="-132" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0005" x="1210" y="1912" width="398" height="492" frameX="-222" frameY="-132" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0006" x="1608" y="1912" width="617" height="600" frameX="0" frameY="-14" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0007" x="1608" y="1912" width="617" height="600" frameX="0" frameY="-14" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0008" x="2225" y="1912" width="614" height="604" frameX="-2" frameY="-11" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0009" x="2225" y="1912" width="614" height="604" frameX="-2" frameY="-11" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0010" x="2839" y="1912" width="468" height="607" frameX="-148" frameY="-8" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0011" x="3307" y="1912" width="413" height="605" frameX="-212" frameY="-8" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0012" x="0" y="2519" width="506" height="613" frameX="-237" frameY="0" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0013" x="506" y="2519" width="506" height="613" frameX="-237" frameY="0" frameWidth="743" frameHeight="624"/>
+	<SubTexture name="Clip attack0014" x="506" y="2519" width="506" height="613" frameX="-237" frameY="0" frameWidth="743" frameHeight="624"/>
+</TextureAtlas>

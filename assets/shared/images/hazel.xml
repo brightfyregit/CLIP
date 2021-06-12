@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hazel.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hazel idle dance0000" x="0" y="0" width="466" height="559" pivotX="0" pivotY="-0.05" frameX="0" frameY="-24" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0001" x="0" y="0" width="466" height="559" frameX="0" frameY="-24" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0002" x="466" y="0" width="441" height="568" frameX="-10" frameY="-19" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0003" x="466" y="0" width="441" height="568" frameX="-10" frameY="-19" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0004" x="907" y="0" width="418" height="584" frameX="-20" frameY="-8" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0005" x="907" y="0" width="418" height="584" frameX="-20" frameY="-8" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0006" x="1325" y="0" width="405" height="595" frameX="-25" frameY="0" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0007" x="1325" y="0" width="405" height="595" frameX="-25" frameY="0" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0008" x="1730" y="0" width="405" height="595" frameX="-25" frameY="0" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0009" x="1730" y="0" width="405" height="595" frameX="-25" frameY="0" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0010" x="1730" y="0" width="405" height="595" frameX="-25" frameY="0" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0011" x="1730" y="0" width="405" height="595" frameX="-25" frameY="0" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0012" x="1730" y="0" width="405" height="595" frameX="-25" frameY="0" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel idle dance0013" x="1730" y="0" width="405" height="595" frameX="-25" frameY="0" frameWidth="466" frameHeight="595"/>
+	<SubTexture name="hazel note down0000" x="2135" y="0" width="545" height="478" pivotX="-212.75" pivotY="261.75" frameX="-20" frameY="-7" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0001" x="2680" y="0" width="545" height="483" frameX="-20" frameY="-2" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0002" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0003" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0004" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0005" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0006" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0007" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0008" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0009" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0010" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0011" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0012" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note down0013" x="3225" y="0" width="551" height="491" frameX="0" frameY="0" frameWidth="565" frameHeight="491"/>
+	<SubTexture name="hazel note left0000" x="0" y="595" width="346" height="577" pivotX="529.7" pivotY="316.25" frameX="0" frameY="-5" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0001" x="346" y="595" width="339" height="577" frameX="-7" frameY="-5" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0002" x="685" y="595" width="345" height="583" frameX="-7" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0003" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0004" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0005" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0006" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0007" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0008" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0009" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0010" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0011" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0012" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note left0013" x="1030" y="595" width="346" height="583" frameX="-6" frameY="0" frameWidth="352" frameHeight="583"/>
+	<SubTexture name="hazel note right0000" x="1376" y="595" width="506" height="569" pivotX="301.9" pivotY="252.95" frameX="0" frameY="-2" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0001" x="1882" y="595" width="506" height="569" frameX="0" frameY="-2" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0002" x="2388" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0003" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0004" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0005" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0006" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0007" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0008" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0009" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0010" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0011" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0012" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note right0013" x="2870" y="595" width="482" height="572" frameX="-13" frameY="0" frameWidth="506" frameHeight="572"/>
+	<SubTexture name="hazel note up0000" x="3352" y="595" width="366" height="580" pivotX="228.2" pivotY="260.05" frameX="0" frameY="0" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0001" x="3718" y="595" width="366" height="580" frameX="0" frameY="0" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0002" x="0" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0003" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0004" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0005" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0006" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0007" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0008" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0009" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0010" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0011" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0012" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+	<SubTexture name="hazel note up0013" x="344" y="1178" width="344" height="576" frameX="-29" frameY="-4" frameWidth="373" frameHeight="580"/>
+</TextureAtlas>

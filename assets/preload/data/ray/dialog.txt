@@ -1,0 +1,9 @@
+:clip:Wait a minute...
+:bf:Beep
+:clip:I know you.
+:bf:beep?
+:clip:You want candy cans? I think the candy shop is right past this door. 
+:clip:Normally, I'd just let you through, but I have a proposition for you.
+:clip:You're known for your immense rapping skills, so I thought we'd do a little battle.
+:clip:Beat me, and I'll let ya through.
+:bf:*tired beep*
