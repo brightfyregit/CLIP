@@ -48,6 +48,9 @@ class DialogueBox extends FlxSpriteGroup
 			case 'paperclips':
 				FlxG.sound.playMusic(Paths.music('neckless'), 0);
 				FlxG.sound.music.fadeIn(1, 0, 0.8);
+            case 'nutella':
+				FlxG.sound.playMusic(Paths.music('neckless'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
 			case 'ray':
 				FlxG.sound.playMusic(Paths.music('neckless'), 0);
 				FlxG.sound.music.fadeIn(1, 0, 0.8);
@@ -139,7 +142,7 @@ class DialogueBox extends FlxSpriteGroup
 			add(portraitLeft);
 			portraitLeft.visible = false;
 		}
-		else if (PlayState.SONG.song.toLowerCase() == 'paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs')
+		else if (PlayState.SONG.song.toLowerCase() == 'paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs' || PlayState.SONG.song.toLowerCase() == 'nutella')
 		{
 			portraitLeft = new FlxSprite(-700, 170);
 			portraitLeft.frames = Paths.getSparrowAtlas('portraits');
@@ -246,7 +249,7 @@ class DialogueBox extends FlxSpriteGroup
 			swagDialogue.color = FlxColor.WHITE;
 			dropText.color = FlxColor.BLACK;
 		}
-		if (PlayState.SONG.song.toLowerCase() == 'paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs')
+		if (PlayState.SONG.song.toLowerCase() == 'paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs' || PlayState.SONG.song.toLowerCase() == 'nutella')
 		{
 			swagDialogue.color = FlxColor.BLACK;
 			dropText.color = FlxColor.CYAN;
@@ -273,7 +276,7 @@ class DialogueBox extends FlxSpriteGroup
 		{
 			remove(dialogue);
 				
-			if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase()=='ray' || PlayState.SONG.song.toLowerCase()=='bonk' || PlayState.SONG.song.toLowerCase()=='limbs')
+			if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase()=='ray' || PlayState.SONG.song.toLowerCase()=='bonk' || PlayState.SONG.song.toLowerCase()=='limbs' || PlayState.SONG.song.toLowerCase() == 'nutella')
 			{
 				FlxG.sound.play(Paths.sound('clipSkip'), 0.8);
 			}
@@ -288,7 +291,7 @@ class DialogueBox extends FlxSpriteGroup
 				{
 					isEnding = true;
 
-					if ((PlayState.SONG.song.toLowerCase() == 'paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs') && !cut)
+					if ((PlayState.SONG.song.toLowerCase() == 'paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs') || PlayState.SONG.song.toLowerCase() == 'nutella' && !cut)
 						FlxG.sound.music.fadeOut(2.2, 0);
 
 					new FlxTimer().start(0.2, function(tmr:FlxTimer)
@@ -393,7 +396,7 @@ class DialogueBox extends FlxSpriteGroup
 	}
 	function rightPortraitSet():Void
 	{
-		if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs')
+		if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs' || PlayState.SONG.song.toLowerCase() == 'nutella')
 		{
 			swagDialogue.sounds = [FlxG.sound.load(Paths.sound('boyfriendText'), 0.6)];
 		}
@@ -408,7 +411,7 @@ class DialogueBox extends FlxSpriteGroup
 	}
 	function leftPortraitSet():Void
 	{
-		if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs')
+		if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs' || PlayState.SONG.song.toLowerCase() == 'nutella')
 		{
 			swagDialogue.sounds = [FlxG.sound.load(Paths.sound('clipTalk'), 0.6)];
 		}
@@ -425,7 +428,7 @@ class DialogueBox extends FlxSpriteGroup
 	}
 	function leftPortraitASet():Void
 	{
-		if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs')
+		if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs' || PlayState.SONG.song.toLowerCase() == 'nutella')
 		{
 			swagDialogue.sounds = [FlxG.sound.load(Paths.sound('clipTalk'), 0.6)];
 		}
@@ -442,7 +445,7 @@ class DialogueBox extends FlxSpriteGroup
 	}
 	function leftPortraitBSet():Void
 	{
-		if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs')
+		if (PlayState.SONG.song.toLowerCase()=='paperclips' || PlayState.SONG.song.toLowerCase() == 'ray' || PlayState.SONG.song.toLowerCase() == 'bonk' || PlayState.SONG.song.toLowerCase() == 'limbs' || PlayState.SONG.song.toLowerCase() == 'nutella')
 		{
 			swagDialogue.sounds = [FlxG.sound.load(Paths.sound('clipTalk'), 0.6)];
 		}
