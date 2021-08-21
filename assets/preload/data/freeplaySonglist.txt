@@ -3,3 +3,5 @@ Ray:clip:7
 Bonk:clip:7
 Limbs:clip:7
 Paperclips:clip:7
+Nutella:hazel:8
+Are-You-Nuts:hazel:8
