@@ -24,7 +24,8 @@ class CreditsState extends MusicBeatState
 	override function create()
 	{
 		var menuBG:FlxSprite = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
-		controlsStrings = CoolUtil.coolStringFile('Artist Clippo' + "\n" + "Programmer BrightFyre" + "\n" + 'Music DawMii');
+		controlsStrings = CoolUtil.coolStringFile('Artist Clippo' + "\n" + 'Programmer BrightFyre' + "\n" + 'Music DawMii' + "\n" + "JustAvi - Hazel Programmer, Nutella Charter" + "\n" + "AydenDeveloper - Coding help, Are You Nuts Charter" + "\n" + "Joecousticz - VS Hazel Composer");
+		// updated stuff
 		
 		trace(controlsStrings);
 
