@@ -270,6 +270,8 @@ class Character extends FlxSprite
 				animation.addByIndices('danceLeft', 'GF Dancing Beat copy', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 				animation.addByIndices('danceRight', 'GF Dancing Beat copy', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 
+				antialiasing = true;
+
 				addOffset('danceLeft', 0, 0);
 				addOffset('danceRight', 0, 0);
 
@@ -281,6 +283,8 @@ class Character extends FlxSprite
 				animation.addByIndices('danceLeft', 'GF Dancing Beat copy', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 				animation.addByIndices('danceRight', 'GF Dancing Beat copy', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 
+				antialiasing = true;
+				
 				addOffset('danceLeft', 0, 0);
 				addOffset('danceRight', 0, 0);
 
@@ -305,6 +309,8 @@ class Character extends FlxSprite
 				animation.addByPrefix('singRIGHT', 'Hazel note right', 24);
 				animation.addByPrefix('singDOWN', 'hazel note down', 24);
 				animation.addByPrefix('singLEFT', 'hazel note left', 24);
+
+				antialiasing = true;
 
 				addOffset('idle', -38, -210);
 				addOffset("singUP", -45, -191);
