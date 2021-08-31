@@ -1,4 +1,3 @@
-import flixel.input.gamepad.FlxGamepad;
 import flixel.FlxG;
 import flixel.util.FlxColor;
 import flixel.FlxSprite;
@@ -7,21 +6,18 @@ import flixel.text.FlxText;
 
 class MessageState extends MusicBeatState
 {
+
     override function create()
     {
         super.create();
 
-        var pressedEnter:Bool = FlxG.keys.justPressed.ENTER;
+        if (FlxG.random.bool(0.1))
+		{
+			// something
+		}
 
-        if (pressedEnter = true)
-            FlxG.switchState(new MainMenuState());
-        else
-            trace("LEAVING THE HOUSE");
-
-		if (!FlxG.sound.music.playing)
-        {
-            FlxG.sound.playMusic(Paths.music('freakyMenu'));
-        }
+        FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
+        FlxG.sound.music.fadeIn(4, 0, 0.7);
 
         if (FlxG.keys.justPressed.ENTER)
         {
